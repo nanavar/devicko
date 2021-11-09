@@ -1,0 +1,29 @@
+body {
+    font-family: 'Mukta', sans-serif !important;
+    font-size: 17px;
+}
+
+h1 {
+    color: #6a6536;
+    font-weight: bold;
+}
+
+h2 {
+    color: #6a6536;
+    font-size: 17px;
+}
+
+h3 {
+    color: #6a6536;
+    font-size: 33px;
+}
+
+.btn {
+    background-color: #e5e2cc !important;
+    font-size: 17px;
+    color: #6a6536;
+}
+
+hr {
+    color: #6a6536;
+}
